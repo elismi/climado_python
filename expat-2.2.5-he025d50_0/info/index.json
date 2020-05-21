@@ -1,0 +1,14 @@
+{
+  "arch": "x86_64",
+  "build": "he025d50_0",
+  "build_number": 0,
+  "depends": [
+    "vc 14.*"
+  ],
+  "license": "MIT",
+  "name": "expat",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1535488227610,
+  "version": "2.2.5"
+}

@@ -1,0 +1,6 @@
+Library/bin/expat.dll
+Library/bin/xmlwf.exe
+Library/include/expat.h
+Library/include/expat_external.h
+Library/lib/expat.lib
+Library/lib/pkgconfig/expat.pc

@@ -1,0 +1,43 @@
+{
+  "paths": [
+    {
+      "_path": "Library/bin/expat.dll",
+      "path_type": "hardlink",
+      "sha256": "261e5282f5957eaeb0104c979f7b68f1031878ff58c3ef7d35404e20e49590f2",
+      "size_in_bytes": 145408
+    },
+    {
+      "_path": "Library/bin/xmlwf.exe",
+      "path_type": "hardlink",
+      "sha256": "b3a494e302b090dc975c7dcf1fe34a20ba817d4153fb2e7a503e83ef54f159a3",
+      "size_in_bytes": 26624
+    },
+    {
+      "_path": "Library/include/expat.h",
+      "path_type": "hardlink",
+      "sha256": "279e957814e08b441e2f20a4d0fbbc146abb7eb1c5cbeccd0fafd53947c9fe1a",
+      "size_in_bytes": 43512
+    },
+    {
+      "_path": "Library/include/expat_external.h",
+      "path_type": "hardlink",
+      "sha256": "ea1076d7b1f763a5da0f8291003a8bdd9887ff28ceae62a070ade57f3a93a0cf",
+      "size_in_bytes": 5532
+    },
+    {
+      "_path": "Library/lib/expat.lib",
+      "path_type": "hardlink",
+      "sha256": "92cd9173a90fdd0650918b7e24dcd653e85b5b0378792e3ca6976e6e411d9805",
+      "size_in_bytes": 17220
+    },
+    {
+      "_path": "Library/lib/pkgconfig/expat.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "C:/ci/expat_1535488156413/_h_env",
+      "sha256": "15cf4685c2ca786f1f587f57e41c865839e6cefa4b4b283f8d2f78cf69199c35",
+      "size_in_bytes": 280
+    }
+  ],
+  "paths_version": 1
+}
